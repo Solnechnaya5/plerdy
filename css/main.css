@@ -646,6 +646,7 @@
   gap: 10px;
   width: 316px;
   height: 37px;
+  box-shadow: inset 20px 20px 0px 20px #ffff;
 }
 .input:focus {
   border-color: #001e41;
